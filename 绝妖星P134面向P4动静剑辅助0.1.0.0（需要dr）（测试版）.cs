@@ -17,7 +17,7 @@ using Newtonsoft.Json;
 
 namespace KodakkuAssist.Community.FRU_AutoFaceAssist
 {
-    [ScriptType(name: "绝妖星P134面向P4动静剑辅助", territorys: [1363], guid: "d4e5f6a1-c2b3-49d8-90ef-1a2b3c4d5e6f", version: "0.1.0.0", note: null, author: "yuemao3")]
+    [ScriptType(name: "绝妖星P134面向P4动静剑辅助", territorys: [1363], guid: "d4e5f6a1-c2b3-49d8-90ef-1a2b3c4d5e6f", version: "0.1.0.0", note: "萌新第一次写脚本。测试版，包含P1P3面向，及P4真伪石化、真伪炸弹自动处理，可能会电。\n依赖于DailyRoutines插件中的自动面向摄像机方向（在线验证模块）和禁止主动移动与释放技能（自制本地模块）。\n想要稳定使用的话请麻烦去可达鸭dc示例和分享中[月猫三]个人脚本分享里看下使用说明。", author: "yuemao3")]
     public class FRU_AutoFaceCombinedAssist
     {
         [UserSetting("【全局】开启测试日志输出")] public bool EnableDebugLog { get; set; } = false;
