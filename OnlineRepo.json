@@ -5,7 +5,7 @@
         "Guid": "d4e5f6a1-c2b3-49d8-90ef-1a2b3c4d5e6f",
         "Version": "0.1.0.3",
         "Author": "yuemao3",
-        "DownloadUrl": "https://raw.githubusercontent.com/Lunar-Nya/KAScript/main/绝妖星P134面向P4动静剑辅助0.1.0.2（需要dr）（测试版）.cs",
+        "DownloadUrl": "https://raw.githubusercontent.com/Lunar-Nya/KAScript/main/绝妖星P134面向P4动静剑辅助0.1.0.3（需要dr）（测试版）.cs",
         "TerritoryIds": [1363],
         "Note": "萌新第一次写脚本。测试版，包含P1P3面向，及P4真伪石化、真伪炸弹自动处理，可能会电。类似功能的脚本尽量只开一个。\n依赖于DailyRoutines插件中的自动面向摄像机方向（在线验证模块）和禁止主动移动与释放技能（自制本地模块）。\n想要稳定使用的话请麻烦去可达鸭dc示例和分享中[月猫三]个人脚本分享里看下使用说明。",
         "UpdateInfo": "0.1.0.3\r\n经反馈之前的数值可能不太稳，把默认值改得更保守了，但已经用过的得手动调整了呜。\r\n【P3】真空波判定后再多少秒后关闭强制面向 改成 1.0；\r\n【P4石化】面向维持时间（秒）改成 2.5；\r\n【P4真炸弹】禁锢维持时间（秒）改成 2.5；\r\n麻烦大家了，不过如果之前的数值用着感觉还算稳也可以不调整。"
