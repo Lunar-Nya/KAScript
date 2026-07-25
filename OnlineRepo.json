@@ -18,6 +18,16 @@
         "TerritoryIds": [1363],
         "Note": "测试版。通过P1波动炮的站位自动调整可达鸭的小队排序，自适应固定半场和盗火烬攻略。不严格按攻略从左到右站位的情况会排列错误。",
         "UpdateInfo": "0.0.0.1\r\n第一个版本。"
+    },
+    {
+        "Name": "绝伊甸自动小队排序",
+        "Guid": "8e55b766-23d4-9e35-04d2-57c701543f30",
+        "Version": "0.0.0.1",
+        "Author": "yuemao3",
+        "DownloadUrl": "https://raw.githubusercontent.com/Lunar-Nya/KAScript/main/绝伊甸自动小队排序0.0.0.1（测试版）.cs",
+        "TerritoryIds": [1238],
+        "Note": "测试版。通过绝伊甸P1开场八方的站位自动调整可达鸭的小队排序，基于正北逆时针 MT D3 H1 D1 [H2/ST] D2 [ST/H2] D4 站位标准。自适应国服MMW站位和日服Game8站位。不严格按攻略站位的情况会排列错误。",
+        "UpdateInfo": "0.0.0.1\r\n第一个版本，手里暂时没有绝伊甸的ARR，没测试，只能祈祷它正常运行了。"
     }
 ]
 
