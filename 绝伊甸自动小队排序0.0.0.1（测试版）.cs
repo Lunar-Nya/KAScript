@@ -94,7 +94,7 @@ namespace Standalone.FRU.PartyAutoSort
                 uint pEast = dirMap[2];
                 uint pSouth = dirMap[4];
 
-                // 规范：从内存中获取正东和正南两名玩家的强类型实体
+                // 从内存中获取正东和正南两名玩家的强类型实体
                 var charaEast = accessory.Data.Objects.SearchByEntityId(pEast) as KodakkuAssist.Data.ICharacter;
                 var charaSouth = accessory.Data.Objects.SearchByEntityId(pSouth) as KodakkuAssist.Data.ICharacter;
 
