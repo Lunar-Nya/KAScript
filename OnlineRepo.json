@@ -32,12 +32,12 @@
     {
         "Name": "可达鸭一键初始化向导",
         "Guid": "50fe62d3-88e1-3190-c4aa-9eddcb78d3e5",
-        "Version": "0.0.0.1",
+        "Version": "0.0.0.2",
         "Author": "yuemao3",
-        "DownloadUrl": "https://raw.githubusercontent.com/Lunar-Nya/KAScript/main/可达鸭一键初始化向导0.0.0.1（测试版）.cs",
+        "DownloadUrl": "https://raw.githubusercontent.com/Lunar-Nya/KAScript/main/可达鸭一键初始化向导0.0.0.2（测试版）.cs",
         "TerritoryIds": [],
         "Note": "测试版。实验性脚本，不保证长期可用。首次安装可达鸭的一键初始化配置脚本。可以按需分别一键调整语言、默认危险安全区的颜色、默认小队排序预设，自动添加在线库、配置网络代理，用完即自动卸载并删除。",
-        "UpdateInfo": "0.0.0.1\r\n第一个版本，可达鸭v0.5.1.54版本测试可用。"
+        "UpdateInfo": "0.0.0.1\r\n第一个版本，可达鸭v0.5.1.54版本测试可用。0.0.0.2\r\n优化了ui显示。"
     }
 ]
 
