@@ -45,7 +45,7 @@
         "Version": "0.0.0.1",
         "Author": "yuemao3",
         "DownloadUrl": "https://raw.githubusercontent.com/Lunar-Nya/KAScript/main/绝龙诗P2螺旋刺自动小队排序0.0.0.1（测试版）.cs",
-        "TerritoryIds": [1238],
+        "TerritoryIds": [968],
         "Note": "测试版。通过绝龙诗P2一运螺旋刺击退分散站位自动纠正可达鸭内部小队排序。\n依据标准站位：MT组固定偏南/西半区、ST组固定偏北/东半区；中轴内侧H1/H2、外侧MT/ST、面朝场心左D1/D2、右D3/D4。\n不严格按攻略站位会排列错误。",
         "UpdateInfo": "0.0.0.1\r\n第一个版本。"
     }
